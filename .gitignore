@@ -12,3 +12,8 @@ style.css
 **/node_modules/
 # node_modules files and subdirectories
 **/node_modules/**
+
+# Extra GitHub files
+/*/**/README.md
+/*/**/.gitattributes
+/*/**/.gitignore
