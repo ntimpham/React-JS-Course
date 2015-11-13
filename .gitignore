@@ -4,6 +4,10 @@
 out
 gen
 
+# Generated Files
+main.js
+style.css
+
 # node_modules folders
 **/node_modules/
 # node_modules files and subdirectories
